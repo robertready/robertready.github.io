@@ -10,8 +10,8 @@ date:
 venue: 
 issue: 
 paperurl:
-linkurl: ReadyReady_Trade_Flows
-linkname: PDF
+linkurl: 
+linkname: 
 citation: 
 prize1: 
 prize2: 
