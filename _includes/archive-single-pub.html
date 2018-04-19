@@ -5,11 +5,7 @@
 <div>
   <article>
 
-    li {
-    padding: 10px 0 0 0;
-    margin: 30px 0;
-    line-height: 10px;
-    }
+
 
     <h3>
       <p> {{post.title}} </p>
@@ -18,21 +14,21 @@
 
 
         {% if post.with %}
-          <p><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
+          <p style="margin-bottom:0.7em"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
         {% else%}
-          <p><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
+          <p style="margin-bottom:0.7em"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
         {% endif %}
 
         {% if post.prize1 %}
-          <p> <br> {{post.prize1 }} </p>
+          <p style="margin-bottom:0.7em"> <br> {{post.prize1 }} </p>
         {% endif %}
 
         {% if post.prize2 %}
-          <p>{{ post.prize2 }} </p>
+          <p style="margin-bottom:0.7em">{{ post.prize2 }} </p>
         {% endif %}
 
         {% if post.prize3 %}
-          <p>{{ post.prize3 }} </p>
+          <p style="margin-bottom:0.7em">{{ post.prize3 }} </p>
         {% endif %}
     
           <p style="line-height:0.3"> <br> </p>
