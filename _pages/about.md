@@ -11,7 +11,10 @@ redirect_from:
 
 
 
-<h2> Associate Professor of Finance </h2>
+<h3> About Me: </h3>
+<p> I am an Associate Professor of Finance at the University of Oregon's Lundquist College of Business. My research interests are in macroeconomics, international finance, and commodities. </p>
+
+<h3> Contact: </h3>
 <p style = "margin-top: 0em;margin-bottom :.25em"> University of Oregon </p>
 <p style = "margin-top: 0em;margin-bottom :.25em"> Lundquist College of Business </p>
 <p style = "margin-top: 0em;margin-bottom :.25em"> 1208 University of Oregon </p>
