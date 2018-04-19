@@ -6,11 +6,11 @@ permalink: /research/readyready.md
 with: 
 excerpt: 
 wdate: 
-date: 'April 2018'
+date: 
 venue: 
 issue: 
 paperurl:
-linkurl:ReadyReady_Trade_Flows
+linkurl: ReadyReady_Trade_Flows
 linkname: PDF
 citation: 
 prize1: 
