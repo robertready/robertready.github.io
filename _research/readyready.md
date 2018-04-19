@@ -1,6 +1,6 @@
 ---
 title: "Trade Flows and Retail Investor Impacts in Commodity Futures Markets"
-collection: research
+collection: WP
 permalink: 
 with: 'Mark Ready'
 excerpt: 
