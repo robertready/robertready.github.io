@@ -10,7 +10,7 @@ date: 'April 2018'
 venue: 
 issue: 
 paperurl:
-linkurl:robready.com/files/ReadyReady_Trade_Flows.pdf
+linkurl:ReadyReady_Trade_Flows
 linkname: PDF
 citation: 
 prize1: 
