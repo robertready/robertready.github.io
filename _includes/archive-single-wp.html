@@ -19,7 +19,9 @@ p {
 
 
         {% if post.with %}
-          <p><i>with {{post.with}}. </p>
+          <p> {{post.date}}. With {{post.with}}. </p>
+        {%else%}
+          <p>{{post.date}}.
         {% endif %}
    
         {% if post.prize1 %}
