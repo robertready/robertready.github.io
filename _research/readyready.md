@@ -4,7 +4,7 @@ collection: WP
 permalink: 
 with: 'Mark Ready'
 excerpt: 
-wdate: 
+wdate: 'April 2018'
 date: 'April 2018'
 venue: 
 issue:
