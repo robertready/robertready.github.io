@@ -5,7 +5,7 @@ permalink:
 with: 'Mark Ready'
 excerpt: 
 wdate: 
-date: 
+date: 'April 2018'
 venue: 
 issue:
 paperurl: ReadyReady_Trade_Flows
