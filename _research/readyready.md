@@ -1,17 +1,16 @@
-
 ---
-title: 'Trade Flows and Retail Investor Impacts in Commodity Futures Markets'
+title: "Trade Flows and Retail Investor Impacts in Commodity Futures Markets"
 collection: research
-permalink: /research/readyready.md
-with: 
+permalink: 
+with: 'Mark Ready'
 excerpt: 
 wdate: 
 date: 
 venue: 
-issue: 
+issue:
 paperurl:
-linkurl: 
-linkname: 
+linkurl:
+linkname:
 citation: 
 prize1: 
 prize2: 
