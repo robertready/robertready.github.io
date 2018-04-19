@@ -8,7 +8,7 @@ wdate:
 date: 
 venue: 
 issue:
-paperurl:
+paperurl:ReadyReady_Trade_Flows
 linkurl:
 linkname:
 citation: 
