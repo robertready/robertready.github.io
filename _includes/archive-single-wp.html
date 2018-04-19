@@ -13,15 +13,15 @@ p {
 
 
     <h3>
-      <p> {{post.title}} [<a href="robready.com/files/{{post.paperurl}}.pdf">PDF</a></p>
+      <p> {{post.title}} </p>
     </h3>
     
 
 
         {% if post.with %}
-          <p> {{post.wdate}}. With {{post.with}}. </p>
+          <p> {{post.wdate}}. With {{post.with}}. [<a href="robready.com/files/{{post.paperurl}}.pdf">PDF</a>] </p>
         {% else %}
-          <p>{{post.wdate}}.</p>
+          <p>{{post.wdate}}. [<a href="robready.com/files/{{post.paperurl}}.pdf">PDF</a>] </p>
         {% endif %}
    
         {% if post.prize1 %}
