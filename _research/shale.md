@@ -4,8 +4,8 @@ collection: WP
 permalink: 
 with: 'Erik Gilje and Nikolai Roussanov'
 excerpt: 
-wdate: 
-date: 'April 2018'
+wdate: 'April 2017'
+date: 'April 2017'
 venue: 
 issue:
 paperurl: shale_draft_apr24_19_2017_nick
