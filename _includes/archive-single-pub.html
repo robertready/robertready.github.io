@@ -7,27 +7,27 @@
 
 
     <h3>
-      <p style="line-height:0.6"> {{post.title}} </p>
+      <p style="line-height:0.8"> {{post.title}} </p>
     </h3>
     
 
 
         {% if post.with %}
-          <p style="line-height:0.6"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
+          <p style="line-height:0.8"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
         {% else%}
-          <p style="line-height:0.6"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
+          <p style="line-height:0.8"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
         {% endif %}
 
         {% if post.prize1 %}
-          <p style="line-height:0.6"> <br> {{post.prize1 }} </p>
+          <p style="line-height:0.8"> <br> {{post.prize1 }} </p>
         {% endif %}
 
         {% if post.prize2 %}
-          <p style="line-height:0.6">{{ post.prize2 }} </p>
+          <p style="line-height:0.8">{{ post.prize2 }} </p>
         {% endif %}
 
         {% if post.prize3 %}
-          <p style="line-height:0.6">{{ post.prize3 }} </p>
+          <p style="line-height:0.8">{{ post.prize3 }} </p>
         {% endif %}
     
           <p style="line-height:0.3"> <br> </p>
