@@ -21,7 +21,7 @@ p {
         {% if post.with %}
           <p> {{post.wdate}}. With {{post.with}}. [<a href="robready.com/files/{{post.paperurl}}.pdf">PDF</a>] </p>
         {% else %}
-          <p>{{post.wdate}}. [<a href="robready.com/files/{{post.paperurl}}.pdf">PDF</a>] </p>
+          <p>{{post.wdate}}. [<a href="robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
         {% endif %}
    
         {% if post.prize1 %}
