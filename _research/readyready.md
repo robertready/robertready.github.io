@@ -1,5 +1,5 @@
 ---
-title: "Trade Flows and Retail Investor Impacts in Commodity Futures Markets"
+title: "Order Flows and Retail Investor Impacts in Commodity Futures Markets"
 collection: WP
 permalink: 
 with: 'Mark Ready'
