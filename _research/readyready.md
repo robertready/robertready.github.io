@@ -8,7 +8,7 @@ wdate: 'April 2018'
 date: 'April 2018'
 venue: 
 issue:
-paperurl: ReadyReady_Trade_Flows
+paperurl: readyready_order_flows
 linkurl:
 linkname:
 citation: 
