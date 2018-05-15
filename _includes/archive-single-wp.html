@@ -19,21 +19,21 @@ p {
 
 
         {% if post.with %}
-          <p> {{post.wdate}}. With {{post.with}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
+          <p style="font-size:16px"> {{post.wdate}}. With {{post.with}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
         {% else %}
-          <p>{{post.wdate}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
+          <p style="font-size:16px">{{post.wdate}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
         {% endif %}
    
         {% if post.prize1 %}
-          <p> {{post.prize1 }} </p>
+          <p style="font-size:16px"> {{post.prize1 }} </p>
         {% endif %}
 
         {% if post.prize2 %}
-          <p>{{ post.prize2 }} </p>
+          <p style="font-size:16px">{{ post.prize2 }} </p>
         {% endif %}
 
         {% if post.prize3 %}
-          <p>{{ post.prize3 }} </p>
+          <p style="font-size:16px">{{ post.prize3 }} </p>
         {% endif %}
     
           <p style="line-height:0.15"> <br> </p>
