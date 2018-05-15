@@ -19,17 +19,17 @@ p {
 
 
         {% if post.with %}
-          <p style="font-size:16px"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
+          <p style="font-size:14px"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}.  {{post.with}}. </p>
         {% else%}
-          <p style="font-size:16px"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
+          <p style="font-size:14px"><i>{{ post.venue }}</i>, {{ post.wdate}}, {{post.issue}}. </p>
         {% endif %}
 
         {% if post.prize1 %}
-          <p style="font-size:16px"> {{post.prize1 }} </p>
+          <p style="font-size:14px"> {{post.prize1 }} </p>
         {% endif %}
 
         {% if post.prize2 %}
-          <p style="font-size:16px">{{ post.prize2 }} </p>
+          <p style="font-size:14px">{{ post.prize2 }} </p>
         {% endif %}
 
         {% if post.prize3 %}
