@@ -4,10 +4,10 @@ collection: research
 permalink: /research/ccgr.md
 with: 'with Riccardo Colacito, Max Croce, and Federico Gavazzoni'
 excerpt: 
-wdate: 'First Draft: November 2014'
+wdate: 'December 2018'
 date: 'May 2018'
 venue: 'Journal of Finance'
-issue: 'Forthcoming'
+issue: '73(6), 2719-2756'
 paperurl:
 linkurl:
 linkname:
