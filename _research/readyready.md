@@ -4,8 +4,8 @@ collection: WP
 permalink: 
 with: 'Mark Ready'
 excerpt: 
-wdate: 'May 2019'
-date: 'May 2019'
+wdate: 'October 2019'
+date: 'October 2019'
 venue: 
 issue:
 paperurl: ready_ready_order_flows
