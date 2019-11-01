@@ -8,7 +8,7 @@ wdate: 'October 2019'
 date: 'October 2019'
 venue: 
 issue:
-paperurl: 
+paperurl: oil_commuting_draft_Oct30
 linkurl:
 linkname:
 citation: 
