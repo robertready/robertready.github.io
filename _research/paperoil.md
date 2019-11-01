@@ -1,11 +1,11 @@
 ---
-title: "Why Does Oil Matter (So Much): Commuting and Aggregate Fluctuations"
+title: "Why does oil matter?: Commuting and aggregate fluctuations"
 collection: WP
 permalink: 
 with: 'Nikolai Roussanov and Ewelina Zurowska'
 excerpt: 
-wdate: 'July 2019'
-date: 'July 2019'
+wdate: 'October 2019'
+date: 'October 2019'
 venue: 
 issue:
 paperurl: 
