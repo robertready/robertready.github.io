@@ -4,8 +4,8 @@ collection: WP
 permalink: 
 with: 'Nikolai Roussanov and Ewelina Zurowska'
 excerpt: 
-wdate: 'October 2019'
-date: 'October 2019'
+wdate: 'November 2019'
+date: 'November 2019'
 venue: 
 issue:
 paperurl: oil_commuting_draft_Oct30
