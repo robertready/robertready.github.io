@@ -1,0 +1,290 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Robert Ready}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, statistics, mathematics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.6in},
+  left=1.0in,
+  top=1.2in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large\bf}
+\subsectionfont{\rmfamily\mdseries\large\bf}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\usepackage{fancyhdr, graphicx}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[L]{}
+\fancyhead[R]{
+}
+\pagestyle{plain}
+
+
+
+\begin{document}
+
+\thispagestyle{fancy}
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+Lundquist College of Business\\
+382 Lillis Hall \\
+1208 University of Oregon \\
+  Eugene, OR 97403
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+
+    Email: & \href{mailto:rready@uoregon.edu}{\tt rready@uoregon.edu} \\
+    Homepage: & \href{http:robready.com}{\tt http://robready.com} \\
+  \end{tabular}
+\end{minipage}
+
+
+
+
+\section*{Education}
+
+\begin{tabular}{lll}
+
+  & 2011 & Ph.D. Finance, The Wharton School, University of Pennsylvania \\
+  
+   & 2008 & M.S. Finance, The Wharton School, University of Pennsylvania \\
+   
+  & 2003 &  B.A. Economics, Carnegie Mellon University
+\end{tabular}
+
+
+\section*{Academic Appointments}
+
+\begin{tabular}{lll}
+\multicolumn{3}{l}{Lundquist School of Business, University of Oregon} \\
+& 2020 - present  & Associate Professor of Finance  (with tenure)  \\
+& 2017 - 2020  & Associate Professor of Finance  (without tenure)  \\
+& & \\
+\multicolumn{3}{l}{Simon School of Business, University of Rochester} \\ 
+& 2011 - 2017 & Assistant Professor of Finance 
+
+
+
+
+\end{tabular}
+
+\section*{Research}
+
+\subsection*{Publications}
+\begin{enumerate}
+\item  Ricardo Colacito, Max Croce, Federico Gavazzoni, and Robert Ready, 2018, Currency risk factors in a recursive multi-country economy \textit{Journal of Finance}, 73, pp. 2719-2756.
+\vspace{.15cm}
+
+\item Robert Ready, 2018, Oil consumption, economic growth, and oil futures: The Impact of long-run oil supply uncertainty on asset prices, \textit{Journal of Monetary Economics}, 94, pp. 1-26.
+
+\vspace{.15cm}
+
+\item Robert Ready, 2017, Oil prices and the stock market, \textit{Review of Finance}, 22, pp.155-176.
+\vspace{.15cm}
+
+\item Robert Ready, Nikolai Roussanov, and Colin Ward, 2017, Commodity trade and the carry trade: A tale of two countries, \textit{The Journal of Finance} 72, pp. 2629-2684.
+\subitem Best Paper at the 2014 Utah Winter Finance Conference
+\subitem Winner of the 2015 AQR Insight Prize
+\subitem Winner of 2016 Best Paper Prize from the Jacobs Levy Center
+
+\vspace{.15cm}
+
+\item Robert Ready, Nikolai Roussanov, and Colin Ward, 2017, After the tide: Commodity currencies and global trade, \textit{Journal of Monetary Economics}, 85, pp. 69-86.
+\end{enumerate}
+
+\subsection*{Other Peer-Reviewed Publications}
+\begin{enumerate}
+\item Danielle N Rubin, Danielle S Bassett, and Robert Ready, 2019, Uncovering dynamic stock return correlations with multilayer network analysis, \textit{Applied Network Science}, 4, pp. 1-13.
+\end{enumerate}
+
+%
+%\subsection*{Other Publications / Conference Proceedings}
+%\begin{itemize}
+%\item Uncovering dynamic stock return correlations with multilayer network analysis, with Danielle N. Rubin and Danielle Bassett, {\it Applied Network Science} 4:31 (2019)
+%\end{itemize}
+
+ 
+\subsection*{Working Papers}
+
+\begin{itemize}
+\item Order Flows and Financial Investor Impacts in Commodity Futures Markets, with Mark Ready.
+\subitem {\bf Revise \& Resubmit}
+\bigskip
+\item Fracking, Drilling, and Asset Pricing: Estimating the Economic Benefits of the Shale Revolution, with Eric Gilje and Nikolai Roussanov.
+\bigskip
+
+\item Why does Oil Matter? Commuting and Aggregate Fluctuations, with Nikolai Roussanov and Ewelina Zurowska
+\bigskip
+\item The Day the WTI Died: Asset Prices and Firm Production Decisions, with Erik Gilje, Nikolai Roussanov, and Jerome Taillard
+\end{itemize}
+
+
+\subsection*{Invited Seminar and Conference Presentations}
+\begin{itemize}
+\item{{\bf 2021:} AFA Meetings*, University of Illinois-Chicago/Michigan State, SFS Cavalcade (scheduled), JPMCC Commodity Symposium (scheduled)} 
+\item{{\bf 2019:} Midwest Finance Association Meetings*, CEBRA Commodities Workshop, OU Energy and Commodities Finance Conference}
+\item{{\bf 2018:} Midwest Macroeconomics Conference*}
+\item{{\bf 2017:} Pacific Northwest Finance Conference, University of Oregon}
+\item{{\bf 2016:} AFA Meetings, SED Meetings, New Zealand Finance Conference, Carnegie-Rochester-NYU  Conference, NBER Asset Pricing Group*, UT-Dallas, University of Wisconsin-Madison,  University of Melbourne}
+\item{{\bf 2015:} AEA Meetings*, AFA Meetings, NBER Summer Institute, Econometric Society World Congress, Macrofinance Society Meetings, AQR Insight Award Presentations*, Oklahoma University Energy Finance Conference, University of Virginia}
+\item{{\bf 2014:} AEA Meetings, AFA Meetings, WFA Meetings, CEEPR Summer Meetings, Utah Winter Finance Conference*, UCLA, Southern Methodist University}
+\item{{\bf 2013:} WFA Meetings, CEEPR Summer Meetings, NBER Asset Pricing Summer Institute, Texas Finance Festival*, Duke ERID Macrofinance Conference*, Oxford-MAN Currency Trading Conference, Minnesota Asset Pricing Conference*, Cornell University}
+\item{{\bf 2012:} SED Meetings*}
+\item{{\bf 2011:} Federal Reserve Board of Governors, University of Rochester, UT-Austin, University of Calgary, Penn State University, Purdue University, McGill University}
+\item {\small *Paper Presented by Co-author}
+\end{itemize}
+
+%\item Oil Prices and the Stock Market:
+%\subitem {\it Cornell University, 2013 European Financial Association Meetings, Southern Methodist %University}
+%\item Commodity Trade and the Carry Trade: A Tale of Two Countries:
+%\subitem {\it 2012 SED Meetings*, 2013 WFA Meetings, 2013 CEEPR Summer Meetings, 2013 NBER Asset Pricing Summer Institute*, 2014 AEA Meetings*, 2014 AFA Meetings, 2014 Utah Winter Finance Conference*, 2015 AQR Insight Award Meetings*}
+%\item Oil Consumption, Economic Growth, and Oil Futures:
+%\subitem {\it UCLA, University of Virginia, 2015 Oklahoma University Energy Finance Conference, 2016 AFA Meetings}
+%\item Fracking, Drilling, and Asset Pricing: Estimating the Economic Benefits of the Shale Revolution
+%\subitem {\it 2015 NBER Summer Institute, 2015 Econometric Society World Congress, 2015 Oklahoma University Energy Finance Conference*, 2016 AFA Meetings, 2016 NBER Asset Pricing Group*, UT-Dallas, University of Wisconsin-Madison, 2016 FIRN-AP Conference at University of Melbourne, University of Oregon}
+%\item Currency Risk Factors in a Recursive Multi-Country Economy
+%\subitem {\it 2015 AEA Meetings*, 2015 NBER Summer Institute, 2015 Econometric Society World Congress, 2015 Macrofinance Society Meeting,  2016 AFA Meetings, 2016 SED Meetings}
+%\item After the Tide: Commodity Currency and Global Trade
+%\subitem {\it 2016 Carnegie-Rochester-NYU Conference}
+%\item Order Flows and Financial Investor Impacts in Commodity Futures Markets
+%\subitem {\it 2017 Pacific Northwest Finance Conference, 2018 Midwest Macroeconomic Conference*, 2019 Midwest Finance Association Meetings}
+%\item {\small *Presented by Co-author}
+%\end{itemize}
+
+\section*{Professional Activities}
+
+\begin{itemize}
+\item {\bf Referee for:} {Journal of Finance, Review of Financial Studies, Journal of Financial Economics,  American Economic Review, Journal of Monetary Economics, Review of Finance, Journal of Financial Markets, Review of Asset Pricing Studies,  Journal of Empirical Finance,  Journal of Financial and Quantitative Analysis, Management Science, Journal of International Economics, Energy Economics, Finance Research Letters, Journal of Banking and Finance, Journal of Financial Econometrics}
+
+\item {\bf Conference Program Committee:} Midwest Finance Association Meetings (2017, 2018), Western Finance Association Meetings (2016, 2017, 2018, 2019) , University of Oregon Summer Finance Conference (2017, 2019), Oklahoma University Energy Finance Conference (2019)
+
+\item {\bf Conference Organizer:} University of Oregon Summer Finance Conference (2019)
+
+\item {\bf Conference Discussions:}  EFA Meetings (2011),  FIRS Conference (2012, 2015),  UNC Junior Finance Meetings (2014), WEAI Conference (2015), Finance Cavalcade (2014, 2017, 2018), WFA Meetings (2016[2], 2018), World Finance Conference (2016), Northern Finance Association Meetings (2016),  UC-Riverside Spring Conference (2018), CEBRA Commodities Workshop (2018), UNPRI Conference (2018), AFA Meetings (2019), SF Federal Reserve Conference on Safe Assets (2019), SF Federal Reserve Conference on Climate Change and Economics (2019)
+
+
+\item {\bf Simon School of Business:} External Seminar Coordinator (2011 - 2016), MBA Academic Committee (2012 - 2016), Finance Faculty Recruiting Committee (2017)
+
+\item {\bf Lundquist College of Business:} Accounting Faculty Recruiting Committee (2017 - 2018), Management Faculty Recruitment Committee (2019), External Seminar Coordinator (2018 - 2019), MBA Academic Committee (2019), MSF Academic Committee (2019), MBA Council (2019), MSF Council (2019), Undergraduate Program Committee (2019-Present)
+\end{itemize}
+
+\section*{Teaching}
+
+\subsection*{Courses Taught}
+\begin{itemize}
+\item {\underline{Simon School of Business}}
+\subitem Financial Institutions, MSF/MBA (2011 - 2015)
+\subitem Fixed Income Analysis, MSF/MBA (2012 - 2017)
+
+\item {\underline{Lundquist College of Business}}
+\subitem Financial Markets and Investments, Undergraduate (2018 - 2021)
+\subitem Concepts of Investments, MBA/MSF (2019-2020)
+\subitem Fixed Income Securities, MBA/MSF (2020)
+\end{itemize}
+
+\subsection*{Doctoral Dissertation Committees}
+\begin{itemize}
+\item \underline{Simon School of Business}
+\subitem Thu Vo (2013)
+\subitem Yunjeen Kim (2013)
+\subitem Justin Vitanza (2014)
+\subitem Mihail Velikov (2014)
+\subitem Yang Liu (2015)
+\subitem Jordan Moore (2016)
+\subitem Hao Zou (2016)
+\subitem Peter Chu (2016)
+\subitem Mi Wu (chair - 2017)
+
+\item \underline{Lundquist College of Business}
+\subitem Benjamin Brennan (Economics, external - 2018)
+\subitem Curtis Dlouhy (Economics, external - 2019)
+\subitem Ying Lou (2020)
+\end{itemize}
+
+\section*{Awards and Honors}
+
+\begin{itemize}
+\item Goulet Outstanding Research Award, University of Oregon Lundquist College of Business (June  2018)
+\item Simon School of Business Teaching Honor Roll (Winter 2015, Spring 2015, and Winter 2017)
+\end{itemize}
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
