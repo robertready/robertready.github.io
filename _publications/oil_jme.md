@@ -1,5 +1,5 @@
 ---
-title: "Oil consumption, economic growth,and oil futures: The impact of long-run oil supply uncertainty on asset prices"
+title: "Oil consumption, economic growth, and oil futures: The impact of long-run oil supply uncertainty on asset prices"
 collection: research
 permalink: /research/oil_jme.md
 with: 
