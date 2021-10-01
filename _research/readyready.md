@@ -12,7 +12,7 @@ paperurl: ready_ready_order_flows
 linkurl:
 linkname:
 citation: 
-prize1: 'Conditionally Accepted at Review of Financial Studies'
+prize1: 'Conditionally Accepted at <i>Review of Financial Studies</i>'
 prize2: 
 prize3: 
 ---
