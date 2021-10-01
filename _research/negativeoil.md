@@ -8,7 +8,7 @@ wdate: 'July 2021'
 date: 'July 2021'
 venue: 
 issue:
-paperurl: ready_ready_order_flows
+paperurl: 
 linkurl:
 linkname:
 citation: 
