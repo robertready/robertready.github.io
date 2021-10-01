@@ -1,5 +1,5 @@
 ---
-title: "The Day the WTI Died: : Asset Prices and Firm Production Decisions"
+title: "The Day the WTI Died: Asset Prices and Firm Production Decisions"
 collection: WP
 permalink: 
 with: 'Erik Gilje, Nikolai Roussanov, and Jerome Taillard'
