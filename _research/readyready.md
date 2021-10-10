@@ -8,7 +8,7 @@ wdate: 'October 2021'
 date: 'October 2021'
 venue: 
 issue:
-paperurl: combine_with_IA.pdf
+paperurl: combine_with_IA
 linkurl:
 linkname:
 citation: 
