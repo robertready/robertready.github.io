@@ -2,7 +2,7 @@
 title: "Order Flows and Financial Investor Impacts in Commodity Futures Markets"
 collection: research
 permalink: /research/readyready.md
-with: Mark Ready
+with: with Mark Ready
 excerpt: 
 wdate: 
 date: 
