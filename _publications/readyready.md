@@ -4,8 +4,8 @@ collection: research
 permalink: /research/readyready.md
 with: Mark Ready
 excerpt: 
-wdate: 'August 2021'
-date: 'August 2021'
+wdate: 
+date: 
 venue: 'Review of Financial Studies'
 issue: 'Forthcoming'
 paperurl:
