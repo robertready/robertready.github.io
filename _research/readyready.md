@@ -12,7 +12,7 @@ paperurl: combine_with_IA
 linkurl:
 linkname:
 citation: 
-prize1: forthcoming in <i>Review of Financial Studies</i>
+prize1: Accepted at <i>Review of Financial Studies</i>
 prize2: 
 prize3: 
 ---
