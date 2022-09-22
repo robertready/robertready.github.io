@@ -1,7 +1,7 @@
 ---
 title: "Order flows and financial impacts in commodity futures markets"
 collection: research
-permalink: /research/ccgr.md
+permalink: /research/readyready.md
 with: 'with Mark Ready'
 excerpt: 
 wdate: 'October 2022'
