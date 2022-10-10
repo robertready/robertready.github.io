@@ -1,5 +1,5 @@
 ---
-title: "Order flows and financial impacts in commodity futures markets"
+title: "Order flows and financial investor impacts in commodity futures markets"
 collection: research
 permalink: /research/readyready.md
 with: 'with Mark Ready'
