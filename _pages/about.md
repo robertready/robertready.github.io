@@ -12,7 +12,7 @@ redirect_from:
 
 
 <h3> About Me: </h3>
-<p> I am the Robert J. and Leona M. DeArmond Research Scholar and an Associate Professor of Finance at the University of Oregon's Lundquist College of Business. My research interests are in asset pricing, macroeconomics, international finance, and commodity markets. </p>
+<p> I am the Doug McKay Research Scholar and an Associate Professor of Finance at the University of Oregon's Lundquist College of Business. My research interests are in asset pricing, macroeconomics, international finance, and commodity markets. </p>
 
 <h3> Contact: </h3>
 <p style = "margin-top: 0em;margin-bottom :.25em"> University of Oregon </p>
