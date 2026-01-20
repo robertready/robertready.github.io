@@ -20,13 +20,13 @@ p {
 
         {% if post.with %}
         {% if post.paperurl %}
-          <p style="font-size:14px"> {{post.wdate}}. With {{post.with}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
+          <p style="font-size:14px"> {{post.wdate}}. With {{post.with}}. [<a href="http://robertready.github.io/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
         {% else %}
           <p style="font-size:14px"> {{post.wdate}}. With {{post.with}}. [PDF Coming Soon] </p>
        
         {% endif %}
         {% else %}
-          <p style="font-size:14px">{{post.wdate}}. [<a href="http://robready.com/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
+          <p style="font-size:14px">{{post.wdate}}. [<a href="http://robertready.github.io/files/{{post.paperurl}}.pdf" style="text-decoration: none; border-bottom: 1px solid red;">PDF</a>] </p>
         {% endif %}
    
         {% if post.prize1 %}
