@@ -1,14 +1,14 @@
 ---
-title: "When Benchmarks Fail: Asset Prices and Firm Production Decisions"
+title: "When Benchmarks Fail: The Causes and Consequences of Negative Oil Prices"
 collection: WP
 permalink: 
 with: 'Erik Gilje, Nikolai Roussanov, and Jerome Taillard'
 excerpt: 
 wdate: 'July 2021'
-date: 'July 2021'
+date: 'January 2026'
 venue: 
 issue:
-paperurl: 
+paperurl: Negative_Oil_Prices_01_26
 linkurl:
 linkname:
 citation: 
