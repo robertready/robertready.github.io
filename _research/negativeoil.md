@@ -4,8 +4,8 @@ collection: WP
 permalink: 
 with: 'Erik Gilje, Nikolai Roussanov, and Jerome Taillard'
 excerpt: 
-wdate: 'July 2021'
-date: 'January 2026'
+wdate: 'January 2026'
+date: 'December 2025'
 venue: 
 issue:
 paperurl: Negative_Oil_Prices_01_26
