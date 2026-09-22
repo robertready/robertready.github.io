@@ -12,7 +12,7 @@ paperurl: Negative_Oil_Prices_01_26
 linkurl:
 linkname:
 citation: 
-prize1: 
+prize1: Revise & Resubmit
 prize2: 
 prize3: 
 ---
